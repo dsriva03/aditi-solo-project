@@ -11,6 +11,7 @@ module.exports = {
         filename: 'bundle.js', //a bundle of everything here
         clean: true, //cleans the build directory before each build
     },
+    devtool: false,
     module: {
         rules: [
             {

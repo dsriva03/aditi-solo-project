@@ -1,7 +1,19 @@
-/*adding in some basic styles/*/
+/*adding in some basic styles*/
+
 
 body {
+
+/*syntax to add gradient style in*/
+ /* background-image: linear-gradient(direction, color-stop1, color-stop2, ...); */
+    background-image: linear-gradient(to right, #e6450b 0%, #f09b33 100%);
     font-family: Arial, sans-serif;
+    font-size: 2.5rem;
     margin: 0;
     padding: 0;
+
 }
+
+.fire-animation  {
+    margin-top: 250px
+}
+

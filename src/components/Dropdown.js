@@ -49,7 +49,7 @@ const handleClick = () => {
         </div>
     );
 
-};
+}
 
 
 

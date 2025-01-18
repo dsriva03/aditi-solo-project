@@ -1,0 +1,35 @@
+.analysis-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.fire-options {
+    margin-bottom: 20px;
+}
+
+.option {
+    margin: 10px 0;
+}
+
+.info-icon {
+    margin-left: 10px;
+    color: #555;
+    cursor: pointer;
+}
+
+.upload-button,
+.analyze-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.upload-button:hover,
+.analyze-button:hover {
+    background-color: #0056b3;
+}

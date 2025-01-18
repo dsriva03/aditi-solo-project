@@ -1,0 +1,19 @@
+.navButton {
+  /*background-image: linear-gradient(to right ,#e6450b 0%, #f09b33 100%);*/
+  background-color: orange;
+  font-family: Arial, sans-serif;
+  font-size: 2.0rem;
+  padding: 20px 30px; /* Adjust values as needed */
+  border: none; /* Removes default border */
+  color: black; /* Sets text color */
+  cursor: pointer; /* Changes cursor to pointer on hover */
+  text-align: center; /* Centers text within the button */
+  display: inline-block; /* Allows for margin and padding adjustments */
+  text-decoration: none; /* Removes underline from text */
+  font-weight: bold;
+  border-radius: 25px;
+  margin-top: 80px;
+
+}
+
+

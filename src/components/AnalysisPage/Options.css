@@ -1,0 +1,65 @@
+/* Options.css */
+.options-container {
+    display: flex;
+    flex-direction: column; /* Stack the buttons vertically */
+    gap: -5px; /* Add space between the buttons */
+    align-items: flex-start; /* Center the buttons horizontally */
+    margin-top: -20px; /* Add spacing above the button group */
+    padding-left: 200px;
+}
+
+.option-button {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    font-size: 2.0rem;
+    padding: 30px 50px; /* Adjust values as needed */
+    border: none; /* Removes default border */
+    color: black; /* Sets text color */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    text-align: center; /* Centers text within the button */
+    display: inline-block; /* Allows for margin and padding adjustments */
+    text-decoration: none; /* Removes underline from text */
+    font-weight: bold;
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.option-button:hover {
+    background-color: red;
+}
+
+.upload-button {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    font-size: 2.0rem;
+    padding: 30px 50px; /* Adjust values as needed */
+    border: none; /* Removes default border */
+    color: black; /* Sets text color */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    text-align: center; /* Centers text within the button */
+    display: inline-block; /* Allows for margin and padding adjustments */
+    text-decoration: none; /* Removes underline from text */
+    font-weight: bold;
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.upload-button:hover {
+    background-color: red;
+}
+
+.analyze-button {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    font-size: 2.0rem;
+    padding: 30px 50px; /* Adjust values as needed */
+    border: none; /* Removes default border */
+    color: black; /* Sets text color */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    text-align: center; /* Centers text within the button */
+    display: inline-block; /* Allows for margin and padding adjustments */
+    text-decoration: none; /* Removes underline from text */
+    font-weight: bold;
+    border-radius: 25px;
+    margin-top: 50px;
+}
